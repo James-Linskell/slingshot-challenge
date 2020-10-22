@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pqv1h7HC17lWVS9vClOlh4QXKGtjrhwxcvrrpc5nIsDnOV84e+k5/sBYXacJ+5sEhuEf1P3V3Wqy37eincfh7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhdli\\Documents\\VSCode_Workspaces\\slingshot-solution\\slingshot-solution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhdli\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.1\\system.data.sqlite.core.1.0.113.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,46 @@
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\slingshot-solution.exe
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\slingshot-solution.deps.json
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\slingshot-solution.runtimeconfig.json
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\slingshot-solution.runtimeconfig.dev.json
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\slingshot-solution.dll
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\slingshot-solution.pdb
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\obj\Debug\netcoreapp3.1\slingshot-solution.csprojAssemblyReference.cache
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\obj\Debug\netcoreapp3.1\slingshot-solution.AssemblyInfoInputs.cache
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\obj\Debug\netcoreapp3.1\slingshot-solution.AssemblyInfo.cs
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\obj\Debug\netcoreapp3.1\slingshot-solution.csproj.CoreCompileInputs.cache
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\obj\Debug\netcoreapp3.1\slingshot-solution.dll
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\obj\Debug\netcoreapp3.1\slingshot-solution.pdb
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\obj\Debug\netcoreapp3.1\slingshot-solution.genruntimeconfig.cache
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\jhdli\Documents\VSCode Workspaces\slingshot-solution\obj\Debug\netcoreapp3.1\slingshot-solution.csproj.CopyComplete
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\slingshot-solution.exe
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\slingshot-solution.deps.json
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\slingshot-solution.runtimeconfig.json
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\slingshot-solution.runtimeconfig.dev.json
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\slingshot-solution.dll
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\slingshot-solution.pdb
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\obj\Debug\netcoreapp3.1\slingshot-solution.csprojAssemblyReference.cache
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\obj\Debug\netcoreapp3.1\slingshot-solution.AssemblyInfoInputs.cache
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\obj\Debug\netcoreapp3.1\slingshot-solution.AssemblyInfo.cs
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\obj\Debug\netcoreapp3.1\slingshot-solution.csproj.CoreCompileInputs.cache
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\obj\Debug\netcoreapp3.1\slingshot-solution.csproj.CopyComplete
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\obj\Debug\netcoreapp3.1\slingshot-solution.dll
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\obj\Debug\netcoreapp3.1\slingshot-solution.pdb
+C:\Users\jhdli\Documents\VSCode_Workspaces\slingshot-solution\obj\Debug\netcoreapp3.1\slingshot-solution.genruntimeconfig.cache
